@@ -10,4 +10,7 @@
 ![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/MOCKUP.png?raw=true)
 
 # UI/UX PROJECT 
+![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/UIUX.png?raw=true)
+
+# WIREFRAME PROJECT
 ![gambar](
