@@ -4,3 +4,8 @@
 # KELAS : TI.24.A.3
 
 # STORY BOARD
+![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/STORY%20BOARD.png?raw=true)
+
+# MOCKUP
+
+![gambar](
