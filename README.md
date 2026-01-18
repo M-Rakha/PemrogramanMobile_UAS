@@ -13,4 +13,5 @@
 ![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/UIUX.png?raw=true)
 
 # WIREFRAME PROJECT
-![gambar](
+![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/WIREFRAME.png?raw=true)_
+
