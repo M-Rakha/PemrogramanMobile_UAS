@@ -7,5 +7,7 @@
 ![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/STORY%20BOARD.png?raw=true)
 
 # MOCKUP
+![gambar](https://github.com/M-Rakha/PemrogramanMobile_UAS/blob/main/MOCKUP.png?raw=true)
 
+# UI/UX PROJECT 
 ![gambar](
